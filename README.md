@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @urknin
-- 👀 I’m interested in Software Development.
+- 👋 Hi, I’m Siddart.
+- 👀 I’m interested in API Development.
 - 🌱 I’m currently learning Spring Boot.
 - 💞️ I’m looking to collaborate on OSS Java projects.
 
