@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Siddart.
-- 👀 I’m interested in API Development.
-- 🌱 I’m currently learning Spring Boot.
-- 💞️ I’m looking to collaborate on OSS Java projects.
+- 👋 Hi, I’m Siddart. I am based in Texas. 
+- 👀 I’m interested in Web Development. I am mainly a back-end specialist skilled in Java with Spring Boot. I have dabbled in a bit of C# and little bit of js, css, html
+- ☁️ I love AWS. I went and got a couple of their certs.
+- 🌱 I’m currently learning Golang. I am curious to see how it does compared to Java.
 
 
 <!---
