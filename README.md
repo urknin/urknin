@@ -1,7 +1,16 @@
-- 👋 Hi, I’m Siddart. I am based in Texas. 
-- 👀 I’m interested in Web Development. I am mainly a back-end specialist skilled in Java with Spring Boot. I have dabbled in a bit of C# and little bit of js, css, html
-- ☁️ I love AWS. I went and got a couple of their certs.
-- 🌱 I’m currently learning Golang. I am curious to see how it does compared to Java.
+👋 Hi, I’m Siddart, a back-end developer based in Texas.
+
+🧠 I specialize in Java with Spring Boot, building robust APIs and microservices.
+
+🛠️ I’ve worked with C# and have some experience with JavaScript, HTML, and CSS for front-end work.
+
+☁️ I'm passionate about cloud technologies—especially AWS—and hold multiple AWS certifications.
+
+🌱 Currently exploring Golang to evaluate its performance and developer experience compared to Java.
+
+💡 Always curious, always learning—whether it’s sharpening my architecture skills or diving into new frameworks.
+
+
 
 
 <!---
